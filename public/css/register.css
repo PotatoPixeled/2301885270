@@ -1,0 +1,15 @@
+.forms{
+    display: flex;
+    justify-content: center;
+
+    border-style: solid;
+    width: 300px;
+    height: 220px;
+    border-width: 2px;
+
+    padding: 10px;
+    margin-top: 100px;
+    margin-left: 600px;
+}
+
+
